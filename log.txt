@@ -1,0 +1,15 @@
+2022-07-30 22:34:49,256 INFO root entered list reverese 
+2022-07-30 22:34:49,256 INFO root list is  not empty
+2022-07-30 22:34:49,256 INFO root entered string extraction 
+2022-07-30 22:34:49,256 INFO root inside try block of string extraction
+2022-07-30 22:34:49,256 INFO root string not empty
+2022-07-30 22:34:49,256 INFO root entered string reverse
+2022-07-30 22:34:49,256 INFO root string not empty
+2022-07-30 22:34:49,256 INFO root entered string split 
+2022-07-30 22:34:49,256 INFO root string not empty
+2022-07-30 22:34:49,256 INFO root entered string lower 
+2022-07-30 22:34:49,256 INFO root string not empty
+2022-07-30 22:34:49,256 INFO root entered string upper 
+2022-07-30 22:34:49,256 INFO root string not empty
+2022-07-30 22:34:49,256 INFO root entered string title 
+2022-07-30 22:34:49,256 INFO root string not empty
